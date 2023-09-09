@@ -42,7 +42,7 @@ The report comprises of 2 pages.
 2. Total product on offer
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/d9f5f39f-6f80-4dbb-b8ca-90ce9d5ac050/ReportSection?experience=power-bi)
-An image of the report
+
 ![](Sprocket_P1_Report.PNG)
 
 ## Conclusion & Recommendation
@@ -61,4 +61,4 @@ An image of the report
   
 # Recommendation
 A further review of job industry 'N/A' will be necessary to have a focussed marketing effort on customers of particular job industry. Also, the discrepancy in the number of customers in the Customer Address & Customer Demographic tables to be resolved with a view to a timely update of tables as required.
-An articulate review of the Product line, Product class & brand generating the highest profts should be undertaken to develop a marketing strtaegy that will target customers' appropriately.
+An articulate review of the Product line, Product class & brand generating the highest profits should be undertaken to develop a marketing strategy that will target customers' appropriately.
