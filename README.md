@@ -35,3 +35,11 @@ Adjusted Model               |           Auto Model
 :---------------------------:|:--------------------------:
 ![](Adjusted.PNG)           | ![](Auto.png)
 
+The model is a star schema as depicted above. There are 2-dimensional tables and a transaction table. The dimension tables are all joined to the transaction table with 1-to-many relationships.
+
+## Visualization
+The report comprises of 2 pages.
+1. Total no of customers with profit generated based on product line/class/gender & state. The page also showed the job industry & their various demands for different brands.
+2. Total product on offer
+
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/d9f5f39f-6f80-4dbb-b8ca-90ce9d5ac050/ReportSection?experience=power-bi)
