@@ -43,3 +43,21 @@ The report comprises of 2 pages.
 2. Total product on offer
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/d9f5f39f-6f80-4dbb-b8ca-90ce9d5ac050/ReportSection?experience=power-bi)
+
+## Conclusion & Recommendation
+### Conclusion
+1. Product **class Medium** has the highest profit of $8.6m followed by
+2. Product **Line Standard** with the highest profit $8.1m
+3. The **Brand WeareA2B** has the highest profit 0f $2.8m follwed by **Solex** $2.4m & **Trek Bike** $1.8m.
+
+4. The State **NSW - New South Wales** has more customers with 1.87K customers which more than double any other state..
+5. Also note worthy that there are more female customers than the males and undiclosed.
+6. The customers' from the following job industry contributed more to sales of the brand with highest profit:
+7.  1. Financial services
+    2. Manufacturing
+    3. N/A
+    4. Health
+  
+# Recommendation
+A further review of job industry 'N/A' will be necessary to have a focussed marketing effort on customers of particular job industry. Also, the discrepancy in the number of customers in the Customer Address & Customer Demographic tables to be resolved with a view to a timely update of tables as required.
+An articulate review of the Product line, Product class & brand generating the highest profts should be undertaken to develop a marketing strtaegy that will target customers' appropriately.
