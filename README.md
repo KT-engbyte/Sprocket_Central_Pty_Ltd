@@ -16,6 +16,8 @@ To identify the profitable product of the business and high net worth customers 
 - Filters
 - Changing Data types.
 - Modelling
+- Removing inconsistencies in datasets e.g. replacing F & Femal with Female etc.
+
   
 ## Data Sourcing:
 Data provided is excel workbook which was downloaded from the forage site. It contains 4 sheets/tables:
@@ -29,7 +31,7 @@ Data was cleaned and transformed with the power query editor. Data cleaning dne 
 
 ## Data Modelling: 
 PowerBI automatically create realtionships but sometimes these relationships may have to be removed or re-created if not meeting purpose e.g. 2 dimension tables automatically connected.
-Adjusted Model                   |           Auto Model
-:...............................:|:------------------------------------------:
-![]()
-(png)
+Adjusted Model               |           Auto Model
+:---------------------------:|:--------------------------:
+![](Adjusted.png)           | ![](Auto.png)
+
