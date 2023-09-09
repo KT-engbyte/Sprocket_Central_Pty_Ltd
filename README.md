@@ -33,5 +33,5 @@ Data was cleaned and transformed with the power query editor. Data cleaning dne 
 PowerBI automatically create realtionships but sometimes these relationships may have to be removed or re-created if not meeting purpose e.g. 2 dimension tables automatically connected.
 Adjusted Model               |           Auto Model
 :---------------------------:|:--------------------------:
-![](Adjusted.png)           | ![](Auto.png)
+![](Adjusted.PNG)           | ![](Auto.png)
 
