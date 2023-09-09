@@ -2,8 +2,7 @@
 ![](sprocket.png)
 
 ## Introduction
-Dataset provided online from the KPMG Australia internship site through the Forage platform. Dataset provided presented a real-life data set as a quick preview shows unclean and irrelevant columns, inconsistent data etc. 
-The data exposed me to the concept of Data Quality review and adoption of the Industry Standard Data Quality Dimension (ISDQD) for Data assessment.
+Dataset provided online from the KPMG Australia internship site through the Forage platform. Dataset provided presented a real-life dataset. A quick preview shows unclean and irrelevant columns, inconsistent data etc. The data exposed me to the concept of Data Quality review and adoption of the Industry Standard Data Quality Dimension (ISDQD) for Data assessment.
 
 ## Problem Statement: 
 To identify the profitable product of the business and high net worth customers to focus on and the kind of product to possibly push. This would be achieved through the following:
@@ -43,6 +42,8 @@ The report comprises of 2 pages.
 2. Total product on offer
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/d9f5f39f-6f80-4dbb-b8ca-90ce9d5ac050/ReportSection?experience=power-bi)
+An image of the report
+![](Sprocket_P1_Report.PNG)
 
 ## Conclusion & Recommendation
 ### Conclusion
